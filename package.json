@@ -1,6 +1,6 @@
 {
-	"name": "multer-gridfs-storage",
-	"version": "5.0.2",
+	"name": "@kofkuiper/multer-gridfs-storage",
+	"version": "1.0.0",
 	"description": "Multer storage engine for GridFS",
 	"main": "lib/index.js",
 	"scripts": {
@@ -25,13 +25,14 @@
 		"gridfs"
 	],
 	"author": {
-		"name": "devconcept",
-		"email": "devconcept@outlook.com"
+		"name": "kofkuiper",
+		"email": "kofkuiper@gmail.com",
+		"url": "https://github.com/kofkuiper"
 	},
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/devconcept/multer-gridfs-storage.git"
+		"url": "https://github.com/kofkuiper/multer-gridfs-storage"
 	},
 	"dependencies": {
 		"@types/node": ">=14",
@@ -74,9 +75,9 @@
 		"node": ">=14"
 	},
 	"bugs": {
-		"url": "https://github.com/devconcept/multer-gridfs-storage/issues"
+		"url": "https://github.com/kofkuiper/multer-gridfs-storage/issues"
 	},
-	"homepage": "https://github.com/devconcept/multer-gridfs-storage",
+	"homepage": "https://github.com/kofkuiper/multer-gridfs-storage",
 	"files": [
 		"LICENSE",
 		"CHANGELOG.md",
