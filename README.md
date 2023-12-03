@@ -4,6 +4,12 @@
 
 [GridFS](https://docs.mongodb.com/manual/core/gridfs) storage engine for [Multer](https://github.com/expressjs/multer) to store uploaded files directly to MongoDb.
 
+## This package forked from [multer-gridfs-storage](https://github.com/devconcept/multer-gridfs-storage)
+## :bug: Fixed Bugs
+- [uncaughtException: Cannot read properties of undefined (reading '_id')](https://github.com/devconcept/multer-gridfs-storage/issues/560)
+![](/img/bug.png)
+Thank you [@theBGuy](https://github.com/devconcept/multer-gridfs-storage/pull/561) for the solution.
+
 ## 🔥 Features
 
 - Compatibility with MongoDb versions 2 and 3.
